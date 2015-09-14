@@ -5,7 +5,7 @@ The control codes for 7 Segment display are send by a C program running on Windo
 
 <a href ="http://xanthium.in/interfacing-7-segment-led-display-with-ft232-and-d2xx-library">Full Explanation of the hardware circuit and code can be found here</a>. 
 
-A short video of FT232 controlling the 7 segment display is <a href ="https://www.youtube.com/watch?v=SaTPUVlcq1g" available on youtube </a>
+A short video of FT232 controlling the 7 segment display is <a href ="https://www.youtube.com/watch?v=SaTPUVlcq1g">available on youtube </a>
 
 The code runs on a Windows (Windows7) PC and uses the **D2XX library** from FTDI.It is compiled using **GCC**.
 
